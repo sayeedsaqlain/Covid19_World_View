@@ -8,3 +8,5 @@ The data was sourced from [open website](https://ourworldindata.org/) and the mo
 
 ## Visualization
 ![image](https://user-images.githubusercontent.com/41228969/194950747-0339237f-d14a-4601-879c-68b64bfa0e49.png)
+
+A link to this tableau story can be found here -> [link](https://public.tableau.com/authoring/Covid19Visuals_16654346492050/Story1#1)
